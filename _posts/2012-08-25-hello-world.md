@@ -13,7 +13,7 @@ image: http://mapleshaw.github.io/img/post/4.png
 
 准备借此学习一下：
 
-> * GithubPage 的搭建
+> * GithubPage 的搭建  test
 > * jeklly的使用
 > * Markdown的美妙
 > * 顺便搭建一个无聊发发骚的地方
