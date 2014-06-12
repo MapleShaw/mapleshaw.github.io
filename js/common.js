@@ -9,4 +9,10 @@
       
     }
   });
+
+  $('.navbar-nav li').on('click', function() {
+    var _this = $(this);
+    _this.parent().find('li.active').removeClass('active');
+    _this.addClass('active');
+  });
 })(window, jQuery);
