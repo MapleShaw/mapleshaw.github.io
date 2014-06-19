@@ -1,3 +1,10 @@
+---
+layout: post
+title: 基于LESS的Jeklly样式优化
+intro: 开始捣鼓LESS了，这次是原创文章啊啊啊，不过里面的代码盗用了一下LESS官网的
+image: http://mapleshaw.github.io/img/post/less.png
+---
+
 # 基于LESS的Jeklly样式优化
 
 ---
