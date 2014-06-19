@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: sublime跟git的姻缘
 intro: 做个小小的记录！！！
 image: http://mapleshaw.github.io/img/post/sublime.png

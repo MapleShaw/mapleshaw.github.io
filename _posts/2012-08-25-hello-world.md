@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 你好，世界
 intro: 第一篇用MD写的文章，很激动有木有！！！
 image: http://mapleshaw.github.io/img/post/4.png
