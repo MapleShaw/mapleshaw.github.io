@@ -18,6 +18,6 @@ image: http://mapleshaw.github.io/img/post/4.png
 > * Markdown的美妙
 > * 顺便搭建一个无聊发发骚的地方
 
-请不要鄙视我，谢谢！哈哈！！！！！ <i class="icon-file"></i> **夜小枫** 。
+请不要鄙视我，谢谢！哈哈！！！！！**夜小枫** 。
 
 ------
