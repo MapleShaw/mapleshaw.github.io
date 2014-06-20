@@ -34,12 +34,10 @@
   // iconArr['css'] = 'icon-css'; 
   // iconArr['html'] = 'icon-html'; 
 
-  $('.posts').each(function() {
-    var _this = $(this);
-    _this.find('a').on('hover', function() {
-      $(this).addClass('pulse animated')
+  $('.posts').find('a').on('hover', function() {
+      $(this).addClass('pulse animated');
     });
-  });
+
 
   
 
