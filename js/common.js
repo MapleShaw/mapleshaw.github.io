@@ -34,7 +34,7 @@
   // iconArr['css'] = 'icon-css'; 
   // iconArr['html'] = 'icon-html'; 
 
-  $('.posts').find('a').on('hover', function() {alert('1')
+  $('.posts').find('a').on('mouseover', function() {alert('1')
       $(this).addClass('pulse animated');
     });
 
